@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/zhangbin/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/zhangbin/AndroidStudioProjects/ijkplayer/ijkplayer-example/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_597fcf92750e03ac1f5677b9eef501c852d90def.jar" />
+    </item>
+    <item
+        jar="/home/zhangbin/AndroidStudioProjects/ijkplayer/ijkplayer-example/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/zhangbin/AndroidStudioProjects/ijkplayer/ijkplayer-example/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_bd27deb56bd345f0e370697c23dd82fe216db41e.jar" />
+    </item>
+    <item
+        jar="/home/zhangbin/.gradle/caches/modules-2/files-2.1/com.squareup/otto/1.3.8/cf615176cd1177edf71d3c9605f8dc148fede6be/otto-1.3.8.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="cf615176cd1177edf71d3c9605f8dc148fede6be">
+        <dex dex="/home/zhangbin/AndroidStudioProjects/ijkplayer/ijkplayer-example/build/intermediates/pre-dexed/debug/otto-1.3.8_67fa873b2112c138b67704c876e47356adadac1d.jar" />
+    </item>
+    <item
+        jar="/home/zhangbin/AndroidStudioProjects/ijkplayer/ijkplayer-example/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/zhangbin/AndroidStudioProjects/ijkplayer/ijkplayer-example/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_e667ad880c58c4db5c1df3b579d76d37223bbbc7.jar" />
+    </item>
+    <item
+        jar="/home/zhangbin/AndroidStudioProjects/ijkplayer/ijkplayer-example/build/intermediates/exploded-aar/com.android.support/preference-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="e27d0df01afa01bd384f91a3c41998133e9235a0">
+        <dex dex="/home/zhangbin/AndroidStudioProjects/ijkplayer/ijkplayer-example/build/intermediates/pre-dexed/debug/com.android.support-preference-v7-23.0.1_cb863d1cbf0ad524d58f693cc7d82eafe85376c2.jar" />
+    </item>
+    <item
+        jar="/home/zhangbin/AndroidStudioProjects/ijkplayer/ijkplayer-example/build/intermediates/exploded-aar/ijkplayer/ijkplayer-java/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="8f80c9655894b805673f468127de5676e6c5fc9d">
+        <dex dex="/home/zhangbin/AndroidStudioProjects/ijkplayer/ijkplayer-example/build/intermediates/pre-dexed/debug/ijkplayer-ijkplayer-java-unspecified_c9e5368e376bd0a8ecd8a1744e9f98be2dd3e254.jar" />
+    </item>
+    <item
+        jar="/home/zhangbin/AndroidStudioProjects/ijkplayer/ijkplayer-example/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer/r1.5.11/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="0a919fdfb7808ff27b33e6e84ec990478abc9cf1">
+        <dex dex="/home/zhangbin/AndroidStudioProjects/ijkplayer/ijkplayer-example/build/intermediates/pre-dexed/debug/com.google.android.exoplayer-exoplayer-r1.5.11_5c11e89fa321751da5a7855d551ee0ba6a5c08ea.jar" />
+    </item>
+    <item
+        jar="/home/zhangbin/AndroidStudioProjects/ijkplayer/ijkplayer-example/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/home/zhangbin/AndroidStudioProjects/ijkplayer/ijkplayer-example/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.0.1_8ae11a5e9bef0f93914ac0ddb3bf7db7bf43f118.jar" />
+    </item>
+    <item
+        jar="/home/zhangbin/AndroidStudioProjects/ijkplayer/ijkplayer-example/build/intermediates/exploded-aar/ijkplayer/ijkplayer-exo/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="bf5b5a298f0b895e681e052eff84168e947987d9">
+        <dex dex="/home/zhangbin/AndroidStudioProjects/ijkplayer/ijkplayer-example/build/intermediates/pre-dexed/debug/ijkplayer-ijkplayer-exo-unspecified_cea0b77bf074cfc9916b2b0829ef9080a2a7878c.jar" />
+    </item>
+    <item
+        jar="/home/zhangbin/AndroidStudioProjects/ijkplayer/ijkplayer-example/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/zhangbin/AndroidStudioProjects/ijkplayer/ijkplayer-example/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_302d82afad9287148152f3e12641ada6a7de1481.jar" />
+    </item>
+
+</items>
